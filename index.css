@@ -1,0 +1,58 @@
+body{ 
+		background: url(pic01.jpg) ; 
+		background-repeat:no-repeat;
+		background-size: cover
+		/*background-image: url(bg.jpg);*/
+		}
+
+
+#head{
+	height: 110px;
+	background-color: #e19d73;
+	text-align: center;
+	padding: 10px;
+	color: darkgrey;
+	font-weight: bold;
+	/* font-family: "bodoni mt black"; */
+}
+#portrait{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	overflow: hidden;
+	/* float: left; */
+	vertical-align: middle;
+	
+	
+}
+#title{
+	text-align:center;
+	font-size: 25px;
+	margin-top: 15px;
+	color: white;
+}
+
+#content{
+	max-width: 700px;
+	margin: 30px left;
+	padding: 15px;
+	line-height: 1.7;
+}
+
+h2{
+	text-align:cente;
+	color: lightgoldenrodyellow;
+	/* background-color: black; */
+}
+
+li{
+	color: white;
+}
+
+#tail{
+	height: 110px;
+	/* background-color: #e19d73; */
+	text-align: center;
+	padding: 10px;
+	color: darkgrey;
+}
